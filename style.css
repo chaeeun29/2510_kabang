@@ -193,7 +193,7 @@ header .menu_box .menu_box-sec_menu ul li a[target="_blank"]::after {
   width: 14px;
   height: 14px;
   display: inline-block;
-  background: url("../imgs/svg_line_outlink.svg");
+  background: url("imgs/svg_line_outlink.svg");
   background-size: 14px 14px;
   margin-left: 8px;
   margin-top: -3px;
@@ -245,7 +245,7 @@ header .dropdown .dropBtn::after {
   width: 12px;
   height: 12px;
   margin-left: 10px;
-  background: url(../imgs/svg_line_arrow_down.svg);
+  background: url(imgs/svg_line_arrow_down.svg);
   background-size: 12px 12px;
   display: inline-block;
   transition: all 0.3s;
@@ -294,7 +294,7 @@ header .dropdown .dropdown_content a[target="_blank"]::after {
   width: 12px;
   height: 12px;
   display: inline-block;
-  background: url("../imgs/svg_line_outlink.svg");
+  background: url("imgs/svg_line_outlink.svg");
   background-size: 12px 12px;
   margin-left: 8px;
   margin-top: -3px;
@@ -564,7 +564,7 @@ header .global_logo:hover > img {
 
 .md_sec_5_wrap {
   height: 750px;
-  background: #fff url(/imgs/home_map.png) no-repeat -12% 50%;
+  background: #fff url(imgs/home_map.png) no-repeat -12% 50%;
 }
 .md_sec_5 .img-box {
   width: 408px;
@@ -1005,7 +1005,7 @@ footer .box_3 > ul > li > a {
 }
 
 footer .box_3 > ul > li .ico_sns {
-  background: url(../imgs/ico_sns.png);
+  background: url(imgs/ico_sns.png);
   height: 100%;
 }
 
